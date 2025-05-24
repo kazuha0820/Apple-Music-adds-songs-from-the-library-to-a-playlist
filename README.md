@@ -1,6 +1,6 @@
 # Apple-Music-adds-songs-from-the-library-to-the-playlist
 based on iOS Shortcuts app, just two lines to add all the songs in your library to a playlist to share it to anyone or transfer to other platforms  
-here's the link:https://www.icloud.com/shortcuts/078c8b6bce6f43b3b5fa24e6bbff32c8  
+here's the link: https://www.icloud.com/shortcuts/078c8b6bce6f43b3b5fa24e6bbff32c8  
 you can also change the filters in Shortcuts to make it fittable for you  
 p.s. add songs to Favourite Songs for some reason(that I don't know) don't work, so better add to other playlists  
 
